@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "EJS, bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadziranoor/nodejs.portfolio.git"
+  },
+  "author": "nadziranoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nadziranoor/nodejs.portfolio/issues"
+  },
+  "homepage": "https://github.com/nadziranoor/nodejs.portfolio#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "startbootstrap-agency": "^6.0.2"
+  }
+}
